@@ -2,9 +2,7 @@
 ```
 Sudoku Kata
 ```
-> **Sudoku** is a number puzzle that is popular in some of the world's press.
->
-> `The rules of the game are as follows :`
+> The rules of the **Sudoku** are as follows :
 >
 >> You fill in all the squares in the grid so that each row, column and each of the
 >> 3x3 squares contains all the digits from 1 to 9 without repeats or omissions.
