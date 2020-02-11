@@ -1,3 +1,4 @@
+![.NET Core](https://github.com/aimenux/SudokuKata/workflows/.NET%20Core/badge.svg)
 # SudokuKata
 ```
 Sudoku Kata
